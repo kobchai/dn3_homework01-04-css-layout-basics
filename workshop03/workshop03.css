@@ -1,0 +1,53 @@
+
+
+.hero {
+  background: white;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.container {
+  text-align: center;
+  padding: 24px;
+}
+
+.page-title {
+  font-size: 24px;
+}
+
+.page-sub {
+  font-size: 14px;
+  color: rgb(56, 53, 53);
+}
+
+
+.content {
+  
+}
+
+.chapter {
+  width: 480px;
+  margin: 16px auto 24px auto;
+  padding: 0 0 12px 0;
+  border: 1px solid rgba(100,100,100, 0.5);
+  border-radius: 8px;
+}
+
+.chapter-head {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  margin: 0;
+  
+  font-size: 14px;
+  background: rgb(0, 81, 255);
+  color:white;
+  /* border: 1px solid rgba(100,100,100, 0.5); */
+  padding: 10px;
+}
+
+.chapter-body {
+  padding: 24px 0;
+  font-size: 1rem;
+  padding: 10px;
+  border-radius: 8px;
+}

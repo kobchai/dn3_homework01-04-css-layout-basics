@@ -1,0 +1,42 @@
+.article {
+  border: 1px solid rgba(10, 10, 10, 0.4);
+  border-radius: 12px;
+  padding: 16px;
+  background: #fefefe;
+  box-shadow: 0 4px 12px lightgray;
+  width: 360px;
+  font-size: 14px;
+}
+
+.photo {
+  float: left;
+  width: 96px;
+  height: 96px;
+  margin: 0 14px 0 0;
+  background: rgb(195, 219, 242);
+  font-size: 36px;
+  text-align: center;
+  line-height: 90px;
+  border: 2px solid blue;
+  border-radius: 12px;
+}
+
+.headline {
+  margin: 0 0 8px;
+  font-size: 18px;
+  color: rgb(18, 18, 18);
+}
+
+p.text {
+  margin: 0 0 8px;
+  color: rgb(50, 48, 48);
+}
+
+.footer {
+  margin-top: 8px;
+  padding: 8px 12px;
+  background: #e2e5f0;
+  border-radius: 8px;
+  text-align: center;
+  color: #7d7676;
+}
